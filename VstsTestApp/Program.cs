@@ -11,6 +11,9 @@ namespace VstsTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Test App for integration of vsts with git");
+
+            Console.WriteLine("Added this line for testing CI");
+
         }
     }
 }
