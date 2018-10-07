@@ -14,6 +14,8 @@ namespace VstsTestApp
 
             Console.WriteLine("Added this line for testing CI2");
 
+            Console.WriteLine("Added this line for testing CI3");
+
         }
     }
 }
